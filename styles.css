@@ -24,10 +24,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', end
     display: block;
     width: 16.6rem;
     height: 4rem;
-    margin-bottom: .5rem;
+    margin: .5rem 0;
     line-height: 2rem;
     overflow-y: scroll;
     border-radius: .5rem;
+    text-align: center;
+    font-size: 1.5em;
 }
 .calculadora td button {
     display: block;
